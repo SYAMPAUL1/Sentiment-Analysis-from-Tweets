@@ -54,10 +54,10 @@ The workflow included:
 
 | Metric     | Value (avg) |
 |------------|-------------|
-| Precision  | ~**X.XX**   |
-| Recall     | ~**X.XX**   |
-| F1-Score   | ~**X.XX**   |
-| Accuracy   | ~**X.XX**   |
+| Precision  | ~**0.8496823305968872**   |
+| Recall     | ~**0.8506290947406878**   |
+| F1-Score   | ~**0.8498381112413093**   |
+| Accuracy   | ~**0.8506290947406878**   |
 
 *(Replace X.XX with your actual numbers if known.)*
 
